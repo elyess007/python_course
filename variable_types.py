@@ -9,6 +9,6 @@ x2 = float(3.14)
 print("Ceci est un float : "+str(x2))
 
 mois = ["janvier", "fevrier", "mars"]
-print(str(mois))
-print(str(mois[0]))
+print(str(mois))        # affiche toute la liste
+print(str(mois[0]))     # affiche la valeur de l'index 0 de la liste > janvier
 
